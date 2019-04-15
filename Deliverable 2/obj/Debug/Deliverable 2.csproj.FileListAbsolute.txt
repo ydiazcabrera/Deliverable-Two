@@ -1,0 +1,7 @@
+C:\Users\yendi\source\repos\Deliverable 2\Deliverable 2\bin\Debug\Deliverable 2.exe.config
+C:\Users\yendi\source\repos\Deliverable 2\Deliverable 2\bin\Debug\Deliverable 2.exe
+C:\Users\yendi\source\repos\Deliverable 2\Deliverable 2\bin\Debug\Deliverable 2.pdb
+C:\Users\yendi\source\repos\Deliverable 2\Deliverable 2\obj\Debug\Deliverable 2.csprojAssemblyReference.cache
+C:\Users\yendi\source\repos\Deliverable 2\Deliverable 2\obj\Debug\Deliverable 2.csproj.CoreCompileInputs.cache
+C:\Users\yendi\source\repos\Deliverable 2\Deliverable 2\obj\Debug\Deliverable 2.exe
+C:\Users\yendi\source\repos\Deliverable 2\Deliverable 2\obj\Debug\Deliverable 2.pdb
